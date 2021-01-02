@@ -1,0 +1,66 @@
+.cover-img {
+    background-image: url(img/cover2.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-img {
+    width: 50px;
+    height: 50px;
+}
+
+.iconKontak {
+    width: 30px;
+    width: 30px;
+}
+
+.slide-img {
+    width: max-content;
+    height: 600px;
+}
+
+@font-face {
+    font-family: DiloWorld;
+    src: url(../font/DiloWorld.ttf);
+}
+
+.font-dilo {
+    font-family: DiloWorld;
+}
+
+@font-face {
+    font-family: GingerSoda;
+    src: url(../font/Ginger_Soda.ttf);
+}
+
+.font-ginger {
+    font-family: GingerSoda;
+}
+
+@font-face {
+    font-family: GoodThings;
+    src: url(../font/Good_Things.ttf);
+}
+
+.font-goodThings {
+    font-family: GoodThings;
+}
+
+@font-face {
+    font-family: HoneyMango;
+    src: url(../font/Honey\ Mango.ttf);
+}
+
+.font-honeyMango {
+    font-family: HoneyMango;
+}
+
+@font-face {
+    font-family: AlmondNougat;
+    src: url(../font/Almond\ Nougat.ttf);
+}
+
+.font-almondNougat {
+    font-family: AlmondNougat;
+}
